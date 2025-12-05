@@ -73,8 +73,3 @@ The project dynamically fetches data from **Natural Earth** (1:10m High-Resoluti
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
------
-
-### **Would you like me to generate a `requirements.txt` file content to go along with this README?**# pythonMapper
